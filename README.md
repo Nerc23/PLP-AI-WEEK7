@@ -1,0 +1,2 @@
+# PLP-AI-WEEK7
+AI Ethics
